@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "sku": "PRO",
+    "price": 99
+  },
+  {
+    "id": 2,
+    "sku": "BASIC",
+    "price": 9
+  },
+  {
+    "id": 3,
+    "sku": "TEAM",
+    "price": 59
+  }
+]

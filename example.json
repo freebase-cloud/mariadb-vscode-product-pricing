@@ -1,0 +1,7 @@
+{
+  "name": "mariadb-vscode-product-pricing",
+  "engine": "mariadb",
+  "slug": "mariadb",
+  "kind": "application",
+  "useCase": "product-pricing"
+}

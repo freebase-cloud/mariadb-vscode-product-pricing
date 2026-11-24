@@ -1,0 +1,20 @@
+{
+  "premium": [
+    "PRO",
+    "TEAM"
+  ],
+  "promotion": [
+    {
+      "sku": "PRO",
+      "price": 89.1
+    },
+    {
+      "sku": "BASIC",
+      "price": 8.1
+    },
+    {
+      "sku": "TEAM",
+      "price": 53.1
+    }
+  ]
+}
